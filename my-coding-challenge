@@ -1,0 +1,4 @@
+test("#1", function() {
+  assert.isNull(value1);   // Change this to assert.isNull
+  assert.isNotNull(value2); // Change this to assert.isNotNull
+});
